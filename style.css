@@ -1,0 +1,21 @@
+#grad1 {
+    height: 50px;
+    background: rgb(10, 10, 10); 
+    background: linear-gradient(to right, rgb(5, 5, 5) , #bd6a6ebb); }
+    a:link, a:visited {
+    background-color: #757575;
+    color: rgb(185, 158, 158);
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: rgb(15, 15, 15); }
+
+    h1 {
+    text-align: center;
+    text-shadow: 3px 2px rgb(170, 139, 139);
+    color: rgb(3, 3, 3); 
+ }
